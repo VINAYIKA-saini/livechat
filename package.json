@@ -8,16 +8,8 @@
     "start-dev": "nodemon server.js",
     "start": "node server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sikendrakumarverma/Backened-training.git"
-  },
-  "author": "Sikendra Kumar Verma",
+  "author": "vinayika saini",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/sikendrakumarverma/Backened-training/issues"
-  },
-  "homepage": "https://github.com/sikendrakumarverma/Backened-training#readme",
   "devDependencies": {
     "express": "^4.18.2",
     "nodemon": "^2.0.20",
